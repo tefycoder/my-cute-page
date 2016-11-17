@@ -13,14 +13,17 @@ li {
     position: relative;
     left: 400px;
     padding: 40px;
+    font-family: 'Clicker Script', cursive;
        } 
 h1 { 
     font-size: 2em;
-    color: #EFF0E8;
+    color: #614772;
+    font-family: 'Clicker Script', cursive;
 }
 
 h2{ font-size: 3em;
     color: #EFF0E8;
+    font-family: 'Clicker Script', cursive;
 
 }
 
@@ -56,6 +59,7 @@ h2{ font-size: 3em;
 
 .tres { padding-top: 50px;
     text-align: left;
+    font-family: 'Clicker Script', cursive;
 } 
 
 h3{ padding-top: 30px;
@@ -63,6 +67,7 @@ h3{ padding-top: 30px;
     font-size: 30px;
     color:#770F7A;
     text-align: center;
+    font-family: 'Clicker Script', cursive;
 
 }  
 
@@ -70,20 +75,21 @@ h5{ padding-top: 30px;
     font-size: 25px;
     color:#770F7A;
     text-align: center;
+    font-family: 'Clicker Script', cursive;
 } 
 
 .negro { 
     background-color: #FFFFFF;
-    padding-left: 30px;
-    padding-top: 30px;
-    height: 400px;
+    padding-left: 100px;
+    padding-top: 60px;
+    height: 200px;
    
 }
 
 .redondo { 
     border: 1px solid #6B1881;
-    padding: 10px;
-    border-radius: 50%;
+    padding: 20px;
+    border-radius: 100%;
 
 }
 
@@ -96,6 +102,7 @@ h6 { text-align: center;
      color:#6B1881;
      padding-top: 100px;
      font-size: 2em;
+    font-family: 'Clicker Script', cursive;
 
      }
 
